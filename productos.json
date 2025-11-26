@@ -1,0 +1,2802 @@
+[
+  {
+    "sku": "PROD-001-ELE",
+    "nombre": "Consola Acme v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Consola Acme v2. Calidad garantizada.",
+    "precio": 532769,
+    "imagen": "https://example.com/img/PROD-001-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 24,
+      "Talcahuano": 77,
+      "Chillán": 0,
+      "Los Ángeles": 54
+    }
+  },
+  {
+    "sku": "PROD-002-ELE",
+    "nombre": "Smart TV Generic v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV Generic v5. Calidad garantizada.",
+    "precio": 582986,
+    "imagen": "https://example.com/img/PROD-002-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 55,
+      "Talcahuano": 16,
+      "Chillán": 63,
+      "Los Ángeles": 38
+    }
+  },
+  {
+    "sku": "PROD-003-HOG",
+    "nombre": "Plancha Generic v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha Generic v1. Calidad garantizada.",
+    "precio": 223088,
+    "imagen": "https://example.com/img/PROD-003-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 22,
+      "Talcahuano": 78,
+      "Chillán": 29,
+      "Los Ángeles": 23
+    }
+  },
+  {
+    "sku": "PROD-004-ELE",
+    "nombre": "Drone TechCorp v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone TechCorp v5. Calidad garantizada.",
+    "precio": 536346,
+    "imagen": "https://example.com/img/PROD-004-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 74,
+      "Talcahuano": 72,
+      "Chillán": 21,
+      "Los Ángeles": 65
+    }
+  },
+  {
+    "sku": "PROD-005-HOG",
+    "nombre": "Batidora SoundSys v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora SoundSys v4. Calidad garantizada.",
+    "precio": 798626,
+    "imagen": "https://example.com/img/PROD-005-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 39,
+      "Talcahuano": 38,
+      "Chillán": 85,
+      "Los Ángeles": 89
+    }
+  },
+  {
+    "sku": "PROD-006-COM",
+    "nombre": "Monitor SoundSys v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor SoundSys v2. Calidad garantizada.",
+    "precio": 266015,
+    "imagen": "https://example.com/img/PROD-006-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 47,
+      "Talcahuano": 75,
+      "Chillán": 42,
+      "Los Ángeles": 23
+    }
+  },
+  {
+    "sku": "PROD-007-ELE",
+    "nombre": "Proyector Generic v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector Generic v3. Calidad garantizada.",
+    "precio": 371533,
+    "imagen": "https://example.com/img/PROD-007-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 27,
+      "Talcahuano": 76,
+      "Chillán": 90,
+      "Los Ángeles": 23
+    }
+  },
+  {
+    "sku": "PROD-008-ACC",
+    "nombre": "Cable HDMI Generic v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI Generic v5. Calidad garantizada.",
+    "precio": 570123,
+    "imagen": "https://example.com/img/PROD-008-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 62,
+      "Talcahuano": 34,
+      "Chillán": 67,
+      "Los Ángeles": 54
+    }
+  },
+  {
+    "sku": "PROD-009-HOG",
+    "nombre": "Aspiradora VisionLab v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Aspiradora VisionLab v4. Calidad garantizada.",
+    "precio": 526683,
+    "imagen": "https://example.com/img/PROD-009-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 80,
+      "Talcahuano": 85,
+      "Chillán": 39,
+      "Los Ángeles": 83
+    }
+  },
+  {
+    "sku": "PROD-010-ACC",
+    "nombre": "Cargador Generic v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador Generic v5. Calidad garantizada.",
+    "precio": 112770,
+    "imagen": "https://example.com/img/PROD-010-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 45,
+      "Talcahuano": 11,
+      "Chillán": 69,
+      "Los Ángeles": 31
+    }
+  },
+  {
+    "sku": "PROD-011-ELE",
+    "nombre": "Proyector VisionLab v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector VisionLab v5. Calidad garantizada.",
+    "precio": 813631,
+    "imagen": "https://example.com/img/PROD-011-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 9,
+      "Talcahuano": 44,
+      "Chillán": 66,
+      "Los Ángeles": 59
+    }
+  },
+  {
+    "sku": "PROD-012-ELE",
+    "nombre": "Cámara TechCorp v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara TechCorp v3. Calidad garantizada.",
+    "precio": 892479,
+    "imagen": "https://example.com/img/PROD-012-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 54,
+      "Talcahuano": 7,
+      "Chillán": 75,
+      "Los Ángeles": 83
+    }
+  },
+  {
+    "sku": "PROD-013-ELE",
+    "nombre": "Smart TV VisionLab v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV VisionLab v2. Calidad garantizada.",
+    "precio": 710119,
+    "imagen": "https://example.com/img/PROD-013-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 64,
+      "Talcahuano": 67,
+      "Chillán": 42,
+      "Los Ángeles": 39
+    }
+  },
+  {
+    "sku": "PROD-014-HOG",
+    "nombre": "Plancha Generic v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha Generic v1. Calidad garantizada.",
+    "precio": 797395,
+    "imagen": "https://example.com/img/PROD-014-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 59,
+      "Talcahuano": 88,
+      "Chillán": 39,
+      "Los Ángeles": 70
+    }
+  },
+  {
+    "sku": "PROD-015-ELE",
+    "nombre": "Drone TechCorp v4",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone TechCorp v4. Calidad garantizada.",
+    "precio": 458832,
+    "imagen": "https://example.com/img/PROD-015-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 18,
+      "Talcahuano": 13,
+      "Chillán": 39,
+      "Los Ángeles": 82
+    }
+  },
+  {
+    "sku": "PROD-016-ELE",
+    "nombre": "Drone Acme v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone Acme v3. Calidad garantizada.",
+    "precio": 338028,
+    "imagen": "https://example.com/img/PROD-016-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 24,
+      "Talcahuano": 67,
+      "Chillán": 11,
+      "Los Ángeles": 84
+    }
+  },
+  {
+    "sku": "PROD-017-ACC",
+    "nombre": "Hub USB VisionLab v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB VisionLab v4. Calidad garantizada.",
+    "precio": 844218,
+    "imagen": "https://example.com/img/PROD-017-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 56,
+      "Talcahuano": 48,
+      "Chillán": 4,
+      "Los Ángeles": 20
+    }
+  },
+  {
+    "sku": "PROD-018-HOG",
+    "nombre": "Cafetera TechCorp v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera TechCorp v1. Calidad garantizada.",
+    "precio": 387153,
+    "imagen": "https://example.com/img/PROD-018-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 58,
+      "Talcahuano": 34,
+      "Chillán": 43,
+      "Los Ángeles": 22
+    }
+  },
+  {
+    "sku": "PROD-019-ACC",
+    "nombre": "Cable HDMI Generic v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI Generic v4. Calidad garantizada.",
+    "precio": 32438,
+    "imagen": "https://example.com/img/PROD-019-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 13,
+      "Talcahuano": 26,
+      "Chillán": 31,
+      "Los Ángeles": 99
+    }
+  },
+  {
+    "sku": "PROD-020-ELE",
+    "nombre": "Proyector TechCorp v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector TechCorp v3. Calidad garantizada.",
+    "precio": 33451,
+    "imagen": "https://example.com/img/PROD-020-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 80,
+      "Talcahuano": 71,
+      "Chillán": 20,
+      "Los Ángeles": 15
+    }
+  },
+  {
+    "sku": "PROD-021-HOG",
+    "nombre": "Batidora Generic v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora Generic v3. Calidad garantizada.",
+    "precio": 759733,
+    "imagen": "https://example.com/img/PROD-021-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 5,
+      "Talcahuano": 49,
+      "Chillán": 85,
+      "Los Ángeles": 55
+    }
+  },
+  {
+    "sku": "PROD-022-COM",
+    "nombre": "Monitor TechCorp v3",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor TechCorp v3. Calidad garantizada.",
+    "precio": 898599,
+    "imagen": "https://example.com/img/PROD-022-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 22,
+      "Talcahuano": 42,
+      "Chillán": 95,
+      "Los Ángeles": 7
+    }
+  },
+  {
+    "sku": "PROD-023-HOG",
+    "nombre": "Aspiradora TechCorp v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Aspiradora TechCorp v5. Calidad garantizada.",
+    "precio": 717296,
+    "imagen": "https://example.com/img/PROD-023-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 54,
+      "Talcahuano": 18,
+      "Chillán": 27,
+      "Los Ángeles": 94
+    }
+  },
+  {
+    "sku": "PROD-024-HOG",
+    "nombre": "Licuadora TechCorp v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora TechCorp v3. Calidad garantizada.",
+    "precio": 878679,
+    "imagen": "https://example.com/img/PROD-024-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 50,
+      "Talcahuano": 16,
+      "Chillán": 10,
+      "Los Ángeles": 67
+    }
+  },
+  {
+    "sku": "PROD-025-HOG",
+    "nombre": "Plancha Acme v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha Acme v5. Calidad garantizada.",
+    "precio": 616034,
+    "imagen": "https://example.com/img/PROD-025-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 14,
+      "Talcahuano": 4,
+      "Chillán": 62,
+      "Los Ángeles": 85
+    }
+  },
+  {
+    "sku": "PROD-026-ELE",
+    "nombre": "Proyector SoundSys v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector SoundSys v1. Calidad garantizada.",
+    "precio": 898357,
+    "imagen": "https://example.com/img/PROD-026-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 77,
+      "Talcahuano": 3,
+      "Chillán": 82,
+      "Los Ángeles": 31
+    }
+  },
+  {
+    "sku": "PROD-027-COM",
+    "nombre": "Teclado SoundSys v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Teclado SoundSys v4. Calidad garantizada.",
+    "precio": 756758,
+    "imagen": "https://example.com/img/PROD-027-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 97,
+      "Talcahuano": 46,
+      "Chillán": 90,
+      "Los Ángeles": 20
+    }
+  },
+  {
+    "sku": "PROD-028-COM",
+    "nombre": "Tablet SoundSys v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet SoundSys v2. Calidad garantizada.",
+    "precio": 860412,
+    "imagen": "https://example.com/img/PROD-028-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 71,
+      "Talcahuano": 51,
+      "Chillán": 99,
+      "Los Ángeles": 26
+    }
+  },
+  {
+    "sku": "PROD-029-ELE",
+    "nombre": "Drone Acme v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone Acme v2. Calidad garantizada.",
+    "precio": 881590,
+    "imagen": "https://example.com/img/PROD-029-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 5,
+      "Talcahuano": 15,
+      "Chillán": 10,
+      "Los Ángeles": 13
+    }
+  },
+  {
+    "sku": "PROD-030-HOG",
+    "nombre": "Licuadora SoundSys v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora SoundSys v2. Calidad garantizada.",
+    "precio": 321521,
+    "imagen": "https://example.com/img/PROD-030-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 72,
+      "Talcahuano": 35,
+      "Chillán": 97,
+      "Los Ángeles": 74
+    }
+  },
+  {
+    "sku": "PROD-031-COM",
+    "nombre": "Mouse Generic v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse Generic v2. Calidad garantizada.",
+    "precio": 694266,
+    "imagen": "https://example.com/img/PROD-031-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 52,
+      "Talcahuano": 38,
+      "Chillán": 37,
+      "Los Ángeles": 89
+    }
+  },
+  {
+    "sku": "PROD-032-ELE",
+    "nombre": "Consola VisionLab v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Consola VisionLab v3. Calidad garantizada.",
+    "precio": 735004,
+    "imagen": "https://example.com/img/PROD-032-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 92,
+      "Talcahuano": 2,
+      "Chillán": 91,
+      "Los Ángeles": 10
+    }
+  },
+  {
+    "sku": "PROD-033-HOG",
+    "nombre": "Cafetera VisionLab v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera VisionLab v4. Calidad garantizada.",
+    "precio": 424948,
+    "imagen": "https://example.com/img/PROD-033-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 7,
+      "Talcahuano": 66,
+      "Chillán": 12,
+      "Los Ángeles": 88
+    }
+  },
+  {
+    "sku": "PROD-034-COM",
+    "nombre": "Mouse Acme v3",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse Acme v3. Calidad garantizada.",
+    "precio": 482465,
+    "imagen": "https://example.com/img/PROD-034-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 49,
+      "Talcahuano": 61,
+      "Chillán": 50,
+      "Los Ángeles": 38
+    }
+  },
+  {
+    "sku": "PROD-035-ACC",
+    "nombre": "Hub USB Acme v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB Acme v5. Calidad garantizada.",
+    "precio": 785474,
+    "imagen": "https://example.com/img/PROD-035-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 99,
+      "Talcahuano": 82,
+      "Chillán": 70,
+      "Los Ángeles": 41
+    }
+  },
+  {
+    "sku": "PROD-036-ACC",
+    "nombre": "Funda Generic v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda Generic v2. Calidad garantizada.",
+    "precio": 38848,
+    "imagen": "https://example.com/img/PROD-036-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 100,
+      "Talcahuano": 41,
+      "Chillán": 51,
+      "Los Ángeles": 57
+    }
+  },
+  {
+    "sku": "PROD-037-HOG",
+    "nombre": "Aspiradora TechCorp v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Aspiradora TechCorp v4. Calidad garantizada.",
+    "precio": 237156,
+    "imagen": "https://example.com/img/PROD-037-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 50,
+      "Talcahuano": 27,
+      "Chillán": 23,
+      "Los Ángeles": 84
+    }
+  },
+  {
+    "sku": "PROD-038-HOG",
+    "nombre": "Cafetera TechCorp v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera TechCorp v2. Calidad garantizada.",
+    "precio": 897377,
+    "imagen": "https://example.com/img/PROD-038-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 25,
+      "Talcahuano": 16,
+      "Chillán": 84,
+      "Los Ángeles": 20
+    }
+  },
+  {
+    "sku": "PROD-039-COM",
+    "nombre": "Notebook Generic v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Notebook Generic v4. Calidad garantizada.",
+    "precio": 887772,
+    "imagen": "https://example.com/img/PROD-039-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 23,
+      "Talcahuano": 62,
+      "Chillán": 94,
+      "Los Ángeles": 2
+    }
+  },
+  {
+    "sku": "PROD-040-HOG",
+    "nombre": "Batidora VisionLab v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora VisionLab v2. Calidad garantizada.",
+    "precio": 798447,
+    "imagen": "https://example.com/img/PROD-040-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 38,
+      "Talcahuano": 61,
+      "Chillán": 48,
+      "Los Ángeles": 93
+    }
+  },
+  {
+    "sku": "PROD-041-ACC",
+    "nombre": "Funda Acme v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda Acme v2. Calidad garantizada.",
+    "precio": 885741,
+    "imagen": "https://example.com/img/PROD-041-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 6,
+      "Talcahuano": 62,
+      "Chillán": 32,
+      "Los Ángeles": 82
+    }
+  },
+  {
+    "sku": "PROD-042-ACC",
+    "nombre": "Cable HDMI Generic v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI Generic v5. Calidad garantizada.",
+    "precio": 435430,
+    "imagen": "https://example.com/img/PROD-042-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 21,
+      "Talcahuano": 77,
+      "Chillán": 4,
+      "Los Ángeles": 23
+    }
+  },
+  {
+    "sku": "PROD-043-ACC",
+    "nombre": "Cargador SoundSys v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador SoundSys v4. Calidad garantizada.",
+    "precio": 476736,
+    "imagen": "https://example.com/img/PROD-043-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 31,
+      "Talcahuano": 70,
+      "Chillán": 1,
+      "Los Ángeles": 78
+    }
+  },
+  {
+    "sku": "PROD-044-ELE",
+    "nombre": "Consola SoundSys v4",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Consola SoundSys v4. Calidad garantizada.",
+    "precio": 253199,
+    "imagen": "https://example.com/img/PROD-044-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 77,
+      "Talcahuano": 83,
+      "Chillán": 100,
+      "Los Ángeles": 24
+    }
+  },
+  {
+    "sku": "PROD-045-HOG",
+    "nombre": "Batidora SoundSys v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora SoundSys v5. Calidad garantizada.",
+    "precio": 776322,
+    "imagen": "https://example.com/img/PROD-045-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 30,
+      "Talcahuano": 70,
+      "Chillán": 40,
+      "Los Ángeles": 91
+    }
+  },
+  {
+    "sku": "PROD-046-ACC",
+    "nombre": "Mochila TechCorp v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Mochila TechCorp v1. Calidad garantizada.",
+    "precio": 440894,
+    "imagen": "https://example.com/img/PROD-046-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 22,
+      "Talcahuano": 65,
+      "Chillán": 39,
+      "Los Ángeles": 9
+    }
+  },
+  {
+    "sku": "PROD-047-COM",
+    "nombre": "Teclado SoundSys v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Teclado SoundSys v1. Calidad garantizada.",
+    "precio": 225844,
+    "imagen": "https://example.com/img/PROD-047-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 91,
+      "Talcahuano": 68,
+      "Chillán": 54,
+      "Los Ángeles": 56
+    }
+  },
+  {
+    "sku": "PROD-048-ELE",
+    "nombre": "Proyector Generic v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector Generic v1. Calidad garantizada.",
+    "precio": 183881,
+    "imagen": "https://example.com/img/PROD-048-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 3,
+      "Talcahuano": 48,
+      "Chillán": 38,
+      "Los Ángeles": 5
+    }
+  },
+  {
+    "sku": "PROD-049-ACC",
+    "nombre": "Hub USB SoundSys v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB SoundSys v2. Calidad garantizada.",
+    "precio": 777375,
+    "imagen": "https://example.com/img/PROD-049-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 75,
+      "Talcahuano": 39,
+      "Chillán": 19,
+      "Los Ángeles": 49
+    }
+  },
+  {
+    "sku": "PROD-050-ACC",
+    "nombre": "Cable HDMI VisionLab v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI VisionLab v5. Calidad garantizada.",
+    "precio": 320645,
+    "imagen": "https://example.com/img/PROD-050-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 48,
+      "Talcahuano": 75,
+      "Chillán": 77,
+      "Los Ángeles": 58
+    }
+  },
+  {
+    "sku": "PROD-051-COM",
+    "nombre": "Tablet Generic v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Generic v2. Calidad garantizada.",
+    "precio": 339802,
+    "imagen": "https://example.com/img/PROD-051-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 53,
+      "Talcahuano": 99,
+      "Chillán": 26,
+      "Los Ángeles": 3
+    }
+  },
+  {
+    "sku": "PROD-052-COM",
+    "nombre": "Mouse SoundSys v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse SoundSys v4. Calidad garantizada.",
+    "precio": 119706,
+    "imagen": "https://example.com/img/PROD-052-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 40,
+      "Talcahuano": 32,
+      "Chillán": 46,
+      "Los Ángeles": 96
+    }
+  },
+  {
+    "sku": "PROD-053-COM",
+    "nombre": "Tablet Acme v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Acme v5. Calidad garantizada.",
+    "precio": 264565,
+    "imagen": "https://example.com/img/PROD-053-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 100,
+      "Talcahuano": 33,
+      "Chillán": 81,
+      "Los Ángeles": 59
+    }
+  },
+  {
+    "sku": "PROD-054-HOG",
+    "nombre": "Plancha SoundSys v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha SoundSys v4. Calidad garantizada.",
+    "precio": 513865,
+    "imagen": "https://example.com/img/PROD-054-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 45,
+      "Talcahuano": 55,
+      "Chillán": 23,
+      "Los Ángeles": 72
+    }
+  },
+  {
+    "sku": "PROD-055-COM",
+    "nombre": "Tablet Generic v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Generic v2. Calidad garantizada.",
+    "precio": 344969,
+    "imagen": "https://example.com/img/PROD-055-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 9,
+      "Talcahuano": 78,
+      "Chillán": 100,
+      "Los Ángeles": 56
+    }
+  },
+  {
+    "sku": "PROD-056-ACC",
+    "nombre": "Funda TechCorp v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda TechCorp v2. Calidad garantizada.",
+    "precio": 211780,
+    "imagen": "https://example.com/img/PROD-056-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 98,
+      "Talcahuano": 59,
+      "Chillán": 58,
+      "Los Ángeles": 89
+    }
+  },
+  {
+    "sku": "PROD-057-COM",
+    "nombre": "Notebook SoundSys v3",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Notebook SoundSys v3. Calidad garantizada.",
+    "precio": 854637,
+    "imagen": "https://example.com/img/PROD-057-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 82,
+      "Talcahuano": 72,
+      "Chillán": 82,
+      "Los Ángeles": 20
+    }
+  },
+  {
+    "sku": "PROD-058-HOG",
+    "nombre": "Batidora VisionLab v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora VisionLab v2. Calidad garantizada.",
+    "precio": 697527,
+    "imagen": "https://example.com/img/PROD-058-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 85,
+      "Talcahuano": 23,
+      "Chillán": 88,
+      "Los Ángeles": 35
+    }
+  },
+  {
+    "sku": "PROD-059-ACC",
+    "nombre": "Hub USB Acme v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB Acme v5. Calidad garantizada.",
+    "precio": 109843,
+    "imagen": "https://example.com/img/PROD-059-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 85,
+      "Talcahuano": 17,
+      "Chillán": 96,
+      "Los Ángeles": 88
+    }
+  },
+  {
+    "sku": "PROD-060-ACC",
+    "nombre": "Cargador SoundSys v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador SoundSys v4. Calidad garantizada.",
+    "precio": 79314,
+    "imagen": "https://example.com/img/PROD-060-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 23,
+      "Talcahuano": 0,
+      "Chillán": 53,
+      "Los Ángeles": 86
+    }
+  },
+  {
+    "sku": "PROD-061-COM",
+    "nombre": "Mouse TechCorp v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse TechCorp v4. Calidad garantizada.",
+    "precio": 867680,
+    "imagen": "https://example.com/img/PROD-061-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 42,
+      "Talcahuano": 39,
+      "Chillán": 29,
+      "Los Ángeles": 15
+    }
+  },
+  {
+    "sku": "PROD-062-ACC",
+    "nombre": "Mochila VisionLab v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Mochila VisionLab v5. Calidad garantizada.",
+    "precio": 680312,
+    "imagen": "https://example.com/img/PROD-062-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 24,
+      "Talcahuano": 78,
+      "Chillán": 75,
+      "Los Ángeles": 57
+    }
+  },
+  {
+    "sku": "PROD-063-HOG",
+    "nombre": "Licuadora SoundSys v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora SoundSys v2. Calidad garantizada.",
+    "precio": 470961,
+    "imagen": "https://example.com/img/PROD-063-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 22,
+      "Talcahuano": 24,
+      "Chillán": 13,
+      "Los Ángeles": 86
+    }
+  },
+  {
+    "sku": "PROD-064-ELE",
+    "nombre": "Consola Acme v4",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Consola Acme v4. Calidad garantizada.",
+    "precio": 584110,
+    "imagen": "https://example.com/img/PROD-064-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 81,
+      "Talcahuano": 97,
+      "Chillán": 86,
+      "Los Ángeles": 77
+    }
+  },
+  {
+    "sku": "PROD-065-ELE",
+    "nombre": "Smart TV TechCorp v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV TechCorp v1. Calidad garantizada.",
+    "precio": 664025,
+    "imagen": "https://example.com/img/PROD-065-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 54,
+      "Talcahuano": 22,
+      "Chillán": 21,
+      "Los Ángeles": 34
+    }
+  },
+  {
+    "sku": "PROD-066-ELE",
+    "nombre": "Smart TV Acme v4",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV Acme v4. Calidad garantizada.",
+    "precio": 607384,
+    "imagen": "https://example.com/img/PROD-066-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 57,
+      "Talcahuano": 38,
+      "Chillán": 43,
+      "Los Ángeles": 24
+    }
+  },
+  {
+    "sku": "PROD-067-COM",
+    "nombre": "Monitor SoundSys v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor SoundSys v4. Calidad garantizada.",
+    "precio": 793921,
+    "imagen": "https://example.com/img/PROD-067-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 25,
+      "Talcahuano": 72,
+      "Chillán": 18,
+      "Los Ángeles": 100
+    }
+  },
+  {
+    "sku": "PROD-068-ACC",
+    "nombre": "Cable HDMI Acme v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI Acme v4. Calidad garantizada.",
+    "precio": 802734,
+    "imagen": "https://example.com/img/PROD-068-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 7,
+      "Talcahuano": 32,
+      "Chillán": 43,
+      "Los Ángeles": 64
+    }
+  },
+  {
+    "sku": "PROD-069-COM",
+    "nombre": "Tablet Generic v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Generic v5. Calidad garantizada.",
+    "precio": 760062,
+    "imagen": "https://example.com/img/PROD-069-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 21,
+      "Talcahuano": 57,
+      "Chillán": 86,
+      "Los Ángeles": 81
+    }
+  },
+  {
+    "sku": "PROD-070-ELE",
+    "nombre": "Drone VisionLab v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone VisionLab v1. Calidad garantizada.",
+    "precio": 854320,
+    "imagen": "https://example.com/img/PROD-070-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 80,
+      "Talcahuano": 98,
+      "Chillán": 52,
+      "Los Ángeles": 55
+    }
+  },
+  {
+    "sku": "PROD-071-HOG",
+    "nombre": "Batidora Acme v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora Acme v4. Calidad garantizada.",
+    "precio": 657648,
+    "imagen": "https://example.com/img/PROD-071-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 31,
+      "Talcahuano": 0,
+      "Chillán": 64,
+      "Los Ángeles": 89
+    }
+  },
+  {
+    "sku": "PROD-072-HOG",
+    "nombre": "Plancha VisionLab v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha VisionLab v3. Calidad garantizada.",
+    "precio": 261648,
+    "imagen": "https://example.com/img/PROD-072-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 35,
+      "Talcahuano": 75,
+      "Chillán": 9,
+      "Los Ángeles": 61
+    }
+  },
+  {
+    "sku": "PROD-073-ELE",
+    "nombre": "Cámara Generic v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara Generic v1. Calidad garantizada.",
+    "precio": 312843,
+    "imagen": "https://example.com/img/PROD-073-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 50,
+      "Talcahuano": 20,
+      "Chillán": 27,
+      "Los Ángeles": 19
+    }
+  },
+  {
+    "sku": "PROD-074-ELE",
+    "nombre": "Proyector SoundSys v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector SoundSys v1. Calidad garantizada.",
+    "precio": 461414,
+    "imagen": "https://example.com/img/PROD-074-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 17,
+      "Talcahuano": 45,
+      "Chillán": 41,
+      "Los Ángeles": 83
+    }
+  },
+  {
+    "sku": "PROD-075-COM",
+    "nombre": "Mouse SoundSys v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse SoundSys v1. Calidad garantizada.",
+    "precio": 420793,
+    "imagen": "https://example.com/img/PROD-075-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 5,
+      "Talcahuano": 32,
+      "Chillán": 25,
+      "Los Ángeles": 70
+    }
+  },
+  {
+    "sku": "PROD-076-COM",
+    "nombre": "Teclado Acme v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Teclado Acme v4. Calidad garantizada.",
+    "precio": 706117,
+    "imagen": "https://example.com/img/PROD-076-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 79,
+      "Talcahuano": 84,
+      "Chillán": 6,
+      "Los Ángeles": 67
+    }
+  },
+  {
+    "sku": "PROD-077-ELE",
+    "nombre": "Smart TV VisionLab v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV VisionLab v3. Calidad garantizada.",
+    "precio": 102207,
+    "imagen": "https://example.com/img/PROD-077-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 12,
+      "Talcahuano": 66,
+      "Chillán": 51,
+      "Los Ángeles": 10
+    }
+  },
+  {
+    "sku": "PROD-078-HOG",
+    "nombre": "Plancha SoundSys v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha SoundSys v2. Calidad garantizada.",
+    "precio": 199110,
+    "imagen": "https://example.com/img/PROD-078-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 24,
+      "Talcahuano": 18,
+      "Chillán": 48,
+      "Los Ángeles": 33
+    }
+  },
+  {
+    "sku": "PROD-079-ACC",
+    "nombre": "Cargador SoundSys v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador SoundSys v1. Calidad garantizada.",
+    "precio": 71599,
+    "imagen": "https://example.com/img/PROD-079-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 44,
+      "Talcahuano": 3,
+      "Chillán": 81,
+      "Los Ángeles": 100
+    }
+  },
+  {
+    "sku": "PROD-080-COM",
+    "nombre": "Tablet SoundSys v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet SoundSys v2. Calidad garantizada.",
+    "precio": 457937,
+    "imagen": "https://example.com/img/PROD-080-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 40,
+      "Talcahuano": 69,
+      "Chillán": 98,
+      "Los Ángeles": 5
+    }
+  },
+  {
+    "sku": "PROD-081-ACC",
+    "nombre": "Cable HDMI TechCorp v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI TechCorp v4. Calidad garantizada.",
+    "precio": 725958,
+    "imagen": "https://example.com/img/PROD-081-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 18,
+      "Talcahuano": 48,
+      "Chillán": 54,
+      "Los Ángeles": 54
+    }
+  },
+  {
+    "sku": "PROD-082-ACC",
+    "nombre": "Mochila Generic v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Mochila Generic v2. Calidad garantizada.",
+    "precio": 615241,
+    "imagen": "https://example.com/img/PROD-082-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 16,
+      "Talcahuano": 33,
+      "Chillán": 36,
+      "Los Ángeles": 51
+    }
+  },
+  {
+    "sku": "PROD-083-HOG",
+    "nombre": "Licuadora VisionLab v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora VisionLab v4. Calidad garantizada.",
+    "precio": 514954,
+    "imagen": "https://example.com/img/PROD-083-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 57,
+      "Talcahuano": 30,
+      "Chillán": 84,
+      "Los Ángeles": 68
+    }
+  },
+  {
+    "sku": "PROD-084-ELE",
+    "nombre": "Cámara VisionLab v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara VisionLab v3. Calidad garantizada.",
+    "precio": 654661,
+    "imagen": "https://example.com/img/PROD-084-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 78,
+      "Talcahuano": 10,
+      "Chillán": 12,
+      "Los Ángeles": 91
+    }
+  },
+  {
+    "sku": "PROD-085-HOG",
+    "nombre": "Cafetera Acme v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera Acme v5. Calidad garantizada.",
+    "precio": 738399,
+    "imagen": "https://example.com/img/PROD-085-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 79,
+      "Talcahuano": 86,
+      "Chillán": 11,
+      "Los Ángeles": 40
+    }
+  },
+  {
+    "sku": "PROD-086-COM",
+    "nombre": "Mouse VisionLab v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse VisionLab v4. Calidad garantizada.",
+    "precio": 67580,
+    "imagen": "https://example.com/img/PROD-086-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 80,
+      "Talcahuano": 100,
+      "Chillán": 76,
+      "Los Ángeles": 25
+    }
+  },
+  {
+    "sku": "PROD-087-COM",
+    "nombre": "Tablet Generic v3",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Generic v3. Calidad garantizada.",
+    "precio": 247656,
+    "imagen": "https://example.com/img/PROD-087-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 10,
+      "Talcahuano": 46,
+      "Chillán": 58,
+      "Los Ángeles": 25
+    }
+  },
+  {
+    "sku": "PROD-088-COM",
+    "nombre": "Tablet Acme v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Acme v1. Calidad garantizada.",
+    "precio": 841764,
+    "imagen": "https://example.com/img/PROD-088-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 66,
+      "Talcahuano": 91,
+      "Chillán": 75,
+      "Los Ángeles": 85
+    }
+  },
+  {
+    "sku": "PROD-089-HOG",
+    "nombre": "Plancha SoundSys v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha SoundSys v2. Calidad garantizada.",
+    "precio": 303575,
+    "imagen": "https://example.com/img/PROD-089-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 27,
+      "Talcahuano": 68,
+      "Chillán": 79,
+      "Los Ángeles": 70
+    }
+  },
+  {
+    "sku": "PROD-090-ACC",
+    "nombre": "Funda VisionLab v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda VisionLab v5. Calidad garantizada.",
+    "precio": 428729,
+    "imagen": "https://example.com/img/PROD-090-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 70,
+      "Talcahuano": 40,
+      "Chillán": 50,
+      "Los Ángeles": 35
+    }
+  },
+  {
+    "sku": "PROD-091-HOG",
+    "nombre": "Cafetera Generic v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera Generic v4. Calidad garantizada.",
+    "precio": 296010,
+    "imagen": "https://example.com/img/PROD-091-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 33,
+      "Talcahuano": 79,
+      "Chillán": 18,
+      "Los Ángeles": 41
+    }
+  },
+  {
+    "sku": "PROD-092-ELE",
+    "nombre": "Cámara VisionLab v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara VisionLab v5. Calidad garantizada.",
+    "precio": 608591,
+    "imagen": "https://example.com/img/PROD-092-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 78,
+      "Talcahuano": 29,
+      "Chillán": 36,
+      "Los Ángeles": 32
+    }
+  },
+  {
+    "sku": "PROD-093-ACC",
+    "nombre": "Hub USB VisionLab v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB VisionLab v2. Calidad garantizada.",
+    "precio": 233997,
+    "imagen": "https://example.com/img/PROD-093-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 42,
+      "Talcahuano": 80,
+      "Chillán": 44,
+      "Los Ángeles": 46
+    }
+  },
+  {
+    "sku": "PROD-094-COM",
+    "nombre": "Monitor VisionLab v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor VisionLab v5. Calidad garantizada.",
+    "precio": 565804,
+    "imagen": "https://example.com/img/PROD-094-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 75,
+      "Talcahuano": 14,
+      "Chillán": 47,
+      "Los Ángeles": 31
+    }
+  },
+  {
+    "sku": "PROD-095-HOG",
+    "nombre": "Batidora TechCorp v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora TechCorp v5. Calidad garantizada.",
+    "precio": 565538,
+    "imagen": "https://example.com/img/PROD-095-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 18,
+      "Talcahuano": 91,
+      "Chillán": 10,
+      "Los Ángeles": 76
+    }
+  },
+  {
+    "sku": "PROD-096-ELE",
+    "nombre": "Cámara VisionLab v4",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara VisionLab v4. Calidad garantizada.",
+    "precio": 431025,
+    "imagen": "https://example.com/img/PROD-096-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 75,
+      "Talcahuano": 49,
+      "Chillán": 2,
+      "Los Ángeles": 88
+    }
+  },
+  {
+    "sku": "PROD-097-HOG",
+    "nombre": "Licuadora VisionLab v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora VisionLab v1. Calidad garantizada.",
+    "precio": 810817,
+    "imagen": "https://example.com/img/PROD-097-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 90,
+      "Talcahuano": 1,
+      "Chillán": 33,
+      "Los Ángeles": 88
+    }
+  },
+  {
+    "sku": "PROD-098-ACC",
+    "nombre": "Funda TechCorp v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda TechCorp v4. Calidad garantizada.",
+    "precio": 212468,
+    "imagen": "https://example.com/img/PROD-098-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 64,
+      "Talcahuano": 96,
+      "Chillán": 94,
+      "Los Ángeles": 27
+    }
+  },
+  {
+    "sku": "PROD-099-ELE",
+    "nombre": "Proyector TechCorp v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector TechCorp v2. Calidad garantizada.",
+    "precio": 823186,
+    "imagen": "https://example.com/img/PROD-099-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 67,
+      "Talcahuano": 6,
+      "Chillán": 16,
+      "Los Ángeles": 92
+    }
+  },
+  {
+    "sku": "PROD-100-ELE",
+    "nombre": "Smart TV Generic v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV Generic v5. Calidad garantizada.",
+    "precio": 235078,
+    "imagen": "https://example.com/img/PROD-100-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 42,
+      "Talcahuano": 85,
+      "Chillán": 58,
+      "Los Ángeles": 25
+    }
+  },
+  {
+    "sku": "PROD-101-ACC",
+    "nombre": "Cable HDMI VisionLab v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI VisionLab v4. Calidad garantizada.",
+    "precio": 456370,
+    "imagen": "https://example.com/img/PROD-101-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 23,
+      "Talcahuano": 69,
+      "Chillán": 81,
+      "Los Ángeles": 87
+    }
+  },
+  {
+    "sku": "PROD-102-ELE",
+    "nombre": "Drone SoundSys v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone SoundSys v2. Calidad garantizada.",
+    "precio": 577003,
+    "imagen": "https://example.com/img/PROD-102-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 67,
+      "Talcahuano": 3,
+      "Chillán": 66,
+      "Los Ángeles": 4
+    }
+  },
+  {
+    "sku": "PROD-103-ELE",
+    "nombre": "Smart TV Generic v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV Generic v3. Calidad garantizada.",
+    "precio": 386680,
+    "imagen": "https://example.com/img/PROD-103-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 63,
+      "Talcahuano": 53,
+      "Chillán": 73,
+      "Los Ángeles": 23
+    }
+  },
+  {
+    "sku": "PROD-104-ELE",
+    "nombre": "Consola TechCorp v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Consola TechCorp v5. Calidad garantizada.",
+    "precio": 834861,
+    "imagen": "https://example.com/img/PROD-104-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 3,
+      "Talcahuano": 69,
+      "Chillán": 89,
+      "Los Ángeles": 88
+    }
+  },
+  {
+    "sku": "PROD-105-ACC",
+    "nombre": "Hub USB SoundSys v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB SoundSys v5. Calidad garantizada.",
+    "precio": 109845,
+    "imagen": "https://example.com/img/PROD-105-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 98,
+      "Talcahuano": 20,
+      "Chillán": 46,
+      "Los Ángeles": 11
+    }
+  },
+  {
+    "sku": "PROD-106-HOG",
+    "nombre": "Batidora Generic v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora Generic v2. Calidad garantizada.",
+    "precio": 107527,
+    "imagen": "https://example.com/img/PROD-106-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 80,
+      "Talcahuano": 69,
+      "Chillán": 14,
+      "Los Ángeles": 72
+    }
+  },
+  {
+    "sku": "PROD-107-ACC",
+    "nombre": "Funda Acme v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda Acme v3. Calidad garantizada.",
+    "precio": 312099,
+    "imagen": "https://example.com/img/PROD-107-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 84,
+      "Talcahuano": 94,
+      "Chillán": 36,
+      "Los Ángeles": 85
+    }
+  },
+  {
+    "sku": "PROD-108-HOG",
+    "nombre": "Batidora Acme v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora Acme v5. Calidad garantizada.",
+    "precio": 324572,
+    "imagen": "https://example.com/img/PROD-108-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 95,
+      "Talcahuano": 80,
+      "Chillán": 37,
+      "Los Ángeles": 25
+    }
+  },
+  {
+    "sku": "PROD-109-ELE",
+    "nombre": "Consola Acme v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Consola Acme v3. Calidad garantizada.",
+    "precio": 567580,
+    "imagen": "https://example.com/img/PROD-109-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 4,
+      "Talcahuano": 54,
+      "Chillán": 16,
+      "Los Ángeles": 91
+    }
+  },
+  {
+    "sku": "PROD-110-ACC",
+    "nombre": "Cable HDMI VisionLab v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI VisionLab v1. Calidad garantizada.",
+    "precio": 272800,
+    "imagen": "https://example.com/img/PROD-110-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 92,
+      "Talcahuano": 4,
+      "Chillán": 43,
+      "Los Ángeles": 44
+    }
+  },
+  {
+    "sku": "PROD-111-ACC",
+    "nombre": "Hub USB Generic v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB Generic v3. Calidad garantizada.",
+    "precio": 130869,
+    "imagen": "https://example.com/img/PROD-111-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 25,
+      "Talcahuano": 87,
+      "Chillán": 8,
+      "Los Ángeles": 92
+    }
+  },
+  {
+    "sku": "PROD-112-HOG",
+    "nombre": "Batidora Acme v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora Acme v5. Calidad garantizada.",
+    "precio": 462640,
+    "imagen": "https://example.com/img/PROD-112-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 42,
+      "Talcahuano": 4,
+      "Chillán": 99,
+      "Los Ángeles": 100
+    }
+  },
+  {
+    "sku": "PROD-113-ACC",
+    "nombre": "Cargador TechCorp v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador TechCorp v1. Calidad garantizada.",
+    "precio": 352651,
+    "imagen": "https://example.com/img/PROD-113-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 9,
+      "Talcahuano": 12,
+      "Chillán": 16,
+      "Los Ángeles": 41
+    }
+  },
+  {
+    "sku": "PROD-114-ELE",
+    "nombre": "Smart TV Acme v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV Acme v5. Calidad garantizada.",
+    "precio": 85218,
+    "imagen": "https://example.com/img/PROD-114-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 51,
+      "Talcahuano": 15,
+      "Chillán": 49,
+      "Los Ángeles": 90
+    }
+  },
+  {
+    "sku": "PROD-115-COM",
+    "nombre": "Notebook SoundSys v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Notebook SoundSys v1. Calidad garantizada.",
+    "precio": 183733,
+    "imagen": "https://example.com/img/PROD-115-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 1,
+      "Talcahuano": 26,
+      "Chillán": 60,
+      "Los Ángeles": 24
+    }
+  },
+  {
+    "sku": "PROD-116-HOG",
+    "nombre": "Licuadora TechCorp v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora TechCorp v1. Calidad garantizada.",
+    "precio": 93782,
+    "imagen": "https://example.com/img/PROD-116-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 0,
+      "Talcahuano": 32,
+      "Chillán": 4,
+      "Los Ángeles": 31
+    }
+  },
+  {
+    "sku": "PROD-117-HOG",
+    "nombre": "Cafetera Acme v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera Acme v2. Calidad garantizada.",
+    "precio": 890216,
+    "imagen": "https://example.com/img/PROD-117-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 88,
+      "Talcahuano": 25,
+      "Chillán": 71,
+      "Los Ángeles": 16
+    }
+  },
+  {
+    "sku": "PROD-118-HOG",
+    "nombre": "Cafetera SoundSys v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera SoundSys v2. Calidad garantizada.",
+    "precio": 393942,
+    "imagen": "https://example.com/img/PROD-118-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 80,
+      "Talcahuano": 21,
+      "Chillán": 41,
+      "Los Ángeles": 77
+    }
+  },
+  {
+    "sku": "PROD-119-HOG",
+    "nombre": "Batidora VisionLab v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora VisionLab v3. Calidad garantizada.",
+    "precio": 708831,
+    "imagen": "https://example.com/img/PROD-119-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 72,
+      "Talcahuano": 89,
+      "Chillán": 56,
+      "Los Ángeles": 48
+    }
+  },
+  {
+    "sku": "PROD-120-ELE",
+    "nombre": "Proyector TechCorp v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector TechCorp v2. Calidad garantizada.",
+    "precio": 350576,
+    "imagen": "https://example.com/img/PROD-120-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 59,
+      "Talcahuano": 41,
+      "Chillán": 74,
+      "Los Ángeles": 78
+    }
+  },
+  {
+    "sku": "PROD-121-ELE",
+    "nombre": "Drone SoundSys v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone SoundSys v1. Calidad garantizada.",
+    "precio": 469633,
+    "imagen": "https://example.com/img/PROD-121-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 24,
+      "Talcahuano": 30,
+      "Chillán": 90,
+      "Los Ángeles": 35
+    }
+  },
+  {
+    "sku": "PROD-122-ACC",
+    "nombre": "Cargador Acme v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador Acme v3. Calidad garantizada.",
+    "precio": 714169,
+    "imagen": "https://example.com/img/PROD-122-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 14,
+      "Talcahuano": 90,
+      "Chillán": 12,
+      "Los Ángeles": 41
+    }
+  },
+  {
+    "sku": "PROD-123-ACC",
+    "nombre": "Hub USB SoundSys v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB SoundSys v4. Calidad garantizada.",
+    "precio": 790324,
+    "imagen": "https://example.com/img/PROD-123-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 15,
+      "Talcahuano": 1,
+      "Chillán": 98,
+      "Los Ángeles": 7
+    }
+  },
+  {
+    "sku": "PROD-124-ELE",
+    "nombre": "Smart TV VisionLab v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV VisionLab v3. Calidad garantizada.",
+    "precio": 893198,
+    "imagen": "https://example.com/img/PROD-124-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 72,
+      "Talcahuano": 60,
+      "Chillán": 86,
+      "Los Ángeles": 12
+    }
+  },
+  {
+    "sku": "PROD-125-ELE",
+    "nombre": "Smart TV Acme v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV Acme v1. Calidad garantizada.",
+    "precio": 823765,
+    "imagen": "https://example.com/img/PROD-125-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 48,
+      "Talcahuano": 87,
+      "Chillán": 19,
+      "Los Ángeles": 30
+    }
+  },
+  {
+    "sku": "PROD-126-HOG",
+    "nombre": "Licuadora SoundSys v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora SoundSys v3. Calidad garantizada.",
+    "precio": 120952,
+    "imagen": "https://example.com/img/PROD-126-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 40,
+      "Talcahuano": 35,
+      "Chillán": 75,
+      "Los Ángeles": 38
+    }
+  },
+  {
+    "sku": "PROD-127-ACC",
+    "nombre": "Cable HDMI VisionLab v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI VisionLab v1. Calidad garantizada.",
+    "precio": 532077,
+    "imagen": "https://example.com/img/PROD-127-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 45,
+      "Talcahuano": 89,
+      "Chillán": 18,
+      "Los Ángeles": 95
+    }
+  },
+  {
+    "sku": "PROD-128-HOG",
+    "nombre": "Batidora TechCorp v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora TechCorp v3. Calidad garantizada.",
+    "precio": 604551,
+    "imagen": "https://example.com/img/PROD-128-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 59,
+      "Talcahuano": 59,
+      "Chillán": 31,
+      "Los Ángeles": 64
+    }
+  },
+  {
+    "sku": "PROD-129-ACC",
+    "nombre": "Mochila Acme v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Mochila Acme v1. Calidad garantizada.",
+    "precio": 240542,
+    "imagen": "https://example.com/img/PROD-129-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 6,
+      "Talcahuano": 61,
+      "Chillán": 2,
+      "Los Ángeles": 0
+    }
+  },
+  {
+    "sku": "PROD-130-ELE",
+    "nombre": "Drone Acme v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone Acme v2. Calidad garantizada.",
+    "precio": 352465,
+    "imagen": "https://example.com/img/PROD-130-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 78,
+      "Talcahuano": 2,
+      "Chillán": 36,
+      "Los Ángeles": 6
+    }
+  },
+  {
+    "sku": "PROD-131-HOG",
+    "nombre": "Aspiradora Generic v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Aspiradora Generic v2. Calidad garantizada.",
+    "precio": 631342,
+    "imagen": "https://example.com/img/PROD-131-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 44,
+      "Talcahuano": 49,
+      "Chillán": 65,
+      "Los Ángeles": 34
+    }
+  },
+  {
+    "sku": "PROD-132-ACC",
+    "nombre": "Cargador VisionLab v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador VisionLab v5. Calidad garantizada.",
+    "precio": 861996,
+    "imagen": "https://example.com/img/PROD-132-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 3,
+      "Talcahuano": 97,
+      "Chillán": 4,
+      "Los Ángeles": 11
+    }
+  },
+  {
+    "sku": "PROD-133-ACC",
+    "nombre": "Cargador SoundSys v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador SoundSys v3. Calidad garantizada.",
+    "precio": 800141,
+    "imagen": "https://example.com/img/PROD-133-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 61,
+      "Talcahuano": 56,
+      "Chillán": 54,
+      "Los Ángeles": 88
+    }
+  },
+  {
+    "sku": "PROD-134-ACC",
+    "nombre": "Hub USB TechCorp v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB TechCorp v3. Calidad garantizada.",
+    "precio": 478733,
+    "imagen": "https://example.com/img/PROD-134-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 31,
+      "Talcahuano": 37,
+      "Chillán": 47,
+      "Los Ángeles": 46
+    }
+  },
+  {
+    "sku": "PROD-135-COM",
+    "nombre": "Monitor Generic v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor Generic v5. Calidad garantizada.",
+    "precio": 567687,
+    "imagen": "https://example.com/img/PROD-135-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 35,
+      "Talcahuano": 85,
+      "Chillán": 92,
+      "Los Ángeles": 46
+    }
+  },
+  {
+    "sku": "PROD-136-COM",
+    "nombre": "Notebook VisionLab v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Notebook VisionLab v1. Calidad garantizada.",
+    "precio": 773197,
+    "imagen": "https://example.com/img/PROD-136-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 49,
+      "Talcahuano": 9,
+      "Chillán": 83,
+      "Los Ángeles": 56
+    }
+  },
+  {
+    "sku": "PROD-137-ELE",
+    "nombre": "Drone TechCorp v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone TechCorp v1. Calidad garantizada.",
+    "precio": 443906,
+    "imagen": "https://example.com/img/PROD-137-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 41,
+      "Talcahuano": 18,
+      "Chillán": 17,
+      "Los Ángeles": 26
+    }
+  },
+  {
+    "sku": "PROD-138-ELE",
+    "nombre": "Smart TV Acme v4",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Smart TV Acme v4. Calidad garantizada.",
+    "precio": 656301,
+    "imagen": "https://example.com/img/PROD-138-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 38,
+      "Talcahuano": 67,
+      "Chillán": 90,
+      "Los Ángeles": 33
+    }
+  },
+  {
+    "sku": "PROD-139-ELE",
+    "nombre": "Proyector Acme v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Proyector Acme v5. Calidad garantizada.",
+    "precio": 555789,
+    "imagen": "https://example.com/img/PROD-139-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 88,
+      "Talcahuano": 13,
+      "Chillán": 52,
+      "Los Ángeles": 98
+    }
+  },
+  {
+    "sku": "PROD-140-ELE",
+    "nombre": "Drone Generic v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone Generic v2. Calidad garantizada.",
+    "precio": 366895,
+    "imagen": "https://example.com/img/PROD-140-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 100,
+      "Talcahuano": 70,
+      "Chillán": 60,
+      "Los Ángeles": 92
+    }
+  },
+  {
+    "sku": "PROD-141-ELE",
+    "nombre": "Cámara TechCorp v3",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara TechCorp v3. Calidad garantizada.",
+    "precio": 414735,
+    "imagen": "https://example.com/img/PROD-141-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 87,
+      "Talcahuano": 37,
+      "Chillán": 86,
+      "Los Ángeles": 31
+    }
+  },
+  {
+    "sku": "PROD-142-ACC",
+    "nombre": "Cable HDMI Acme v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI Acme v4. Calidad garantizada.",
+    "precio": 512109,
+    "imagen": "https://example.com/img/PROD-142-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 63,
+      "Talcahuano": 92,
+      "Chillán": 69,
+      "Los Ángeles": 40
+    }
+  },
+  {
+    "sku": "PROD-143-HOG",
+    "nombre": "Plancha SoundSys v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha SoundSys v1. Calidad garantizada.",
+    "precio": 375472,
+    "imagen": "https://example.com/img/PROD-143-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 33,
+      "Talcahuano": 67,
+      "Chillán": 100,
+      "Los Ángeles": 54
+    }
+  },
+  {
+    "sku": "PROD-144-COM",
+    "nombre": "Tablet SoundSys v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet SoundSys v1. Calidad garantizada.",
+    "precio": 353179,
+    "imagen": "https://example.com/img/PROD-144-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 72,
+      "Talcahuano": 6,
+      "Chillán": 63,
+      "Los Ángeles": 3
+    }
+  },
+  {
+    "sku": "PROD-145-HOG",
+    "nombre": "Licuadora VisionLab v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora VisionLab v2. Calidad garantizada.",
+    "precio": 543129,
+    "imagen": "https://example.com/img/PROD-145-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 51,
+      "Talcahuano": 84,
+      "Chillán": 13,
+      "Los Ángeles": 97
+    }
+  },
+  {
+    "sku": "PROD-146-HOG",
+    "nombre": "Plancha VisionLab v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha VisionLab v1. Calidad garantizada.",
+    "precio": 304929,
+    "imagen": "https://example.com/img/PROD-146-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 62,
+      "Talcahuano": 1,
+      "Chillán": 98,
+      "Los Ángeles": 64
+    }
+  },
+  {
+    "sku": "PROD-147-HOG",
+    "nombre": "Aspiradora SoundSys v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Aspiradora SoundSys v2. Calidad garantizada.",
+    "precio": 750268,
+    "imagen": "https://example.com/img/PROD-147-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 64,
+      "Talcahuano": 1,
+      "Chillán": 15,
+      "Los Ángeles": 65
+    }
+  },
+  {
+    "sku": "PROD-148-COM",
+    "nombre": "Mouse Acme v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse Acme v5. Calidad garantizada.",
+    "precio": 841116,
+    "imagen": "https://example.com/img/PROD-148-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 73,
+      "Talcahuano": 19,
+      "Chillán": 92,
+      "Los Ángeles": 23
+    }
+  },
+  {
+    "sku": "PROD-149-HOG",
+    "nombre": "Plancha SoundSys v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha SoundSys v1. Calidad garantizada.",
+    "precio": 235403,
+    "imagen": "https://example.com/img/PROD-149-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 99,
+      "Talcahuano": 21,
+      "Chillán": 100,
+      "Los Ángeles": 28
+    }
+  },
+  {
+    "sku": "PROD-150-COM",
+    "nombre": "Teclado SoundSys v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Teclado SoundSys v1. Calidad garantizada.",
+    "precio": 107204,
+    "imagen": "https://example.com/img/PROD-150-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 67,
+      "Talcahuano": 92,
+      "Chillán": 95,
+      "Los Ángeles": 89
+    }
+  },
+  {
+    "sku": "PROD-151-ELE",
+    "nombre": "Consola Generic v5",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Consola Generic v5. Calidad garantizada.",
+    "precio": 240783,
+    "imagen": "https://example.com/img/PROD-151-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 51,
+      "Talcahuano": 49,
+      "Chillán": 16,
+      "Los Ángeles": 87
+    }
+  },
+  {
+    "sku": "PROD-152-HOG",
+    "nombre": "Plancha VisionLab v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha VisionLab v4. Calidad garantizada.",
+    "precio": 48201,
+    "imagen": "https://example.com/img/PROD-152-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 98,
+      "Talcahuano": 74,
+      "Chillán": 75,
+      "Los Ángeles": 65
+    }
+  },
+  {
+    "sku": "PROD-153-COM",
+    "nombre": "Monitor TechCorp v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor TechCorp v4. Calidad garantizada.",
+    "precio": 480122,
+    "imagen": "https://example.com/img/PROD-153-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 100,
+      "Talcahuano": 14,
+      "Chillán": 41,
+      "Los Ángeles": 2
+    }
+  },
+  {
+    "sku": "PROD-154-ELE",
+    "nombre": "Cámara SoundSys v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara SoundSys v2. Calidad garantizada.",
+    "precio": 441674,
+    "imagen": "https://example.com/img/PROD-154-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 95,
+      "Talcahuano": 4,
+      "Chillán": 39,
+      "Los Ángeles": 23
+    }
+  },
+  {
+    "sku": "PROD-155-COM",
+    "nombre": "Tablet Acme v1",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Acme v1. Calidad garantizada.",
+    "precio": 630794,
+    "imagen": "https://example.com/img/PROD-155-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 24,
+      "Talcahuano": 36,
+      "Chillán": 21,
+      "Los Ángeles": 68
+    }
+  },
+  {
+    "sku": "PROD-156-ACC",
+    "nombre": "Cargador SoundSys v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador SoundSys v3. Calidad garantizada.",
+    "precio": 230129,
+    "imagen": "https://example.com/img/PROD-156-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 14,
+      "Talcahuano": 25,
+      "Chillán": 39,
+      "Los Ángeles": 67
+    }
+  },
+  {
+    "sku": "PROD-157-ACC",
+    "nombre": "Cable HDMI Acme v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cable HDMI Acme v4. Calidad garantizada.",
+    "precio": 788950,
+    "imagen": "https://example.com/img/PROD-157-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 32,
+      "Talcahuano": 85,
+      "Chillán": 82,
+      "Los Ángeles": 68
+    }
+  },
+  {
+    "sku": "PROD-158-COM",
+    "nombre": "Notebook Acme v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Notebook Acme v5. Calidad garantizada.",
+    "precio": 699090,
+    "imagen": "https://example.com/img/PROD-158-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 63,
+      "Talcahuano": 79,
+      "Chillán": 14,
+      "Los Ángeles": 8
+    }
+  },
+  {
+    "sku": "PROD-159-HOG",
+    "nombre": "Aspiradora VisionLab v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Aspiradora VisionLab v3. Calidad garantizada.",
+    "precio": 74289,
+    "imagen": "https://example.com/img/PROD-159-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 33,
+      "Talcahuano": 95,
+      "Chillán": 97,
+      "Los Ángeles": 15
+    }
+  },
+  {
+    "sku": "PROD-160-HOG",
+    "nombre": "Plancha TechCorp v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha TechCorp v2. Calidad garantizada.",
+    "precio": 166416,
+    "imagen": "https://example.com/img/PROD-160-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 42,
+      "Talcahuano": 7,
+      "Chillán": 31,
+      "Los Ángeles": 53
+    }
+  },
+  {
+    "sku": "PROD-161-HOG",
+    "nombre": "Plancha SoundSys v4",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha SoundSys v4. Calidad garantizada.",
+    "precio": 102267,
+    "imagen": "https://example.com/img/PROD-161-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 12,
+      "Talcahuano": 8,
+      "Chillán": 65,
+      "Los Ángeles": 92
+    }
+  },
+  {
+    "sku": "PROD-162-COM",
+    "nombre": "Teclado VisionLab v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Teclado VisionLab v5. Calidad garantizada.",
+    "precio": 723827,
+    "imagen": "https://example.com/img/PROD-162-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 88,
+      "Talcahuano": 12,
+      "Chillán": 30,
+      "Los Ángeles": 22
+    }
+  },
+  {
+    "sku": "PROD-163-ACC",
+    "nombre": "Cargador TechCorp v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador TechCorp v2. Calidad garantizada.",
+    "precio": 394770,
+    "imagen": "https://example.com/img/PROD-163-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 81,
+      "Talcahuano": 35,
+      "Chillán": 13,
+      "Los Ángeles": 20
+    }
+  },
+  {
+    "sku": "PROD-164-ACC",
+    "nombre": "Mochila Generic v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Mochila Generic v1. Calidad garantizada.",
+    "precio": 726607,
+    "imagen": "https://example.com/img/PROD-164-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 47,
+      "Talcahuano": 62,
+      "Chillán": 83,
+      "Los Ángeles": 74
+    }
+  },
+  {
+    "sku": "PROD-165-HOG",
+    "nombre": "Cafetera VisionLab v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera VisionLab v3. Calidad garantizada.",
+    "precio": 706866,
+    "imagen": "https://example.com/img/PROD-165-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 64,
+      "Talcahuano": 61,
+      "Chillán": 11,
+      "Los Ángeles": 61
+    }
+  },
+  {
+    "sku": "PROD-166-ACC",
+    "nombre": "Funda Acme v4",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda Acme v4. Calidad garantizada.",
+    "precio": 488325,
+    "imagen": "https://example.com/img/PROD-166-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 77,
+      "Talcahuano": 12,
+      "Chillán": 25,
+      "Los Ángeles": 44
+    }
+  },
+  {
+    "sku": "PROD-167-ACC",
+    "nombre": "Funda TechCorp v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda TechCorp v1. Calidad garantizada.",
+    "precio": 499048,
+    "imagen": "https://example.com/img/PROD-167-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 79,
+      "Talcahuano": 61,
+      "Chillán": 34,
+      "Los Ángeles": 93
+    }
+  },
+  {
+    "sku": "PROD-168-ELE",
+    "nombre": "Cámara SoundSys v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara SoundSys v1. Calidad garantizada.",
+    "precio": 600116,
+    "imagen": "https://example.com/img/PROD-168-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 36,
+      "Talcahuano": 42,
+      "Chillán": 84,
+      "Los Ángeles": 95
+    }
+  },
+  {
+    "sku": "PROD-169-COM",
+    "nombre": "Tablet Generic v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet Generic v2. Calidad garantizada.",
+    "precio": 870897,
+    "imagen": "https://example.com/img/PROD-169-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 54,
+      "Talcahuano": 48,
+      "Chillán": 24,
+      "Los Ángeles": 41
+    }
+  },
+  {
+    "sku": "PROD-170-HOG",
+    "nombre": "Batidora VisionLab v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora VisionLab v1. Calidad garantizada.",
+    "precio": 338983,
+    "imagen": "https://example.com/img/PROD-170-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 25,
+      "Talcahuano": 78,
+      "Chillán": 4,
+      "Los Ángeles": 6
+    }
+  },
+  {
+    "sku": "PROD-171-COM",
+    "nombre": "Monitor Generic v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor Generic v5. Calidad garantizada.",
+    "precio": 551401,
+    "imagen": "https://example.com/img/PROD-171-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 29,
+      "Talcahuano": 18,
+      "Chillán": 15,
+      "Los Ángeles": 95
+    }
+  },
+  {
+    "sku": "PROD-172-HOG",
+    "nombre": "Licuadora VisionLab v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora VisionLab v5. Calidad garantizada.",
+    "precio": 664102,
+    "imagen": "https://example.com/img/PROD-172-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 8,
+      "Talcahuano": 78,
+      "Chillán": 79,
+      "Los Ángeles": 55
+    }
+  },
+  {
+    "sku": "PROD-173-HOG",
+    "nombre": "Licuadora Generic v3",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora Generic v3. Calidad garantizada.",
+    "precio": 439117,
+    "imagen": "https://example.com/img/PROD-173-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 16,
+      "Talcahuano": 69,
+      "Chillán": 52,
+      "Los Ángeles": 53
+    }
+  },
+  {
+    "sku": "PROD-174-COM",
+    "nombre": "Tablet SoundSys v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Tablet SoundSys v4. Calidad garantizada.",
+    "precio": 573456,
+    "imagen": "https://example.com/img/PROD-174-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 1,
+      "Talcahuano": 1,
+      "Chillán": 12,
+      "Los Ángeles": 17
+    }
+  },
+  {
+    "sku": "PROD-175-ACC",
+    "nombre": "Funda VisionLab v2",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda VisionLab v2. Calidad garantizada.",
+    "precio": 559372,
+    "imagen": "https://example.com/img/PROD-175-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 95,
+      "Talcahuano": 78,
+      "Chillán": 49,
+      "Los Ángeles": 76
+    }
+  },
+  {
+    "sku": "PROD-176-COM",
+    "nombre": "Monitor Generic v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor Generic v2. Calidad garantizada.",
+    "precio": 385628,
+    "imagen": "https://example.com/img/PROD-176-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 54,
+      "Talcahuano": 86,
+      "Chillán": 16,
+      "Los Ángeles": 19
+    }
+  },
+  {
+    "sku": "PROD-177-HOG",
+    "nombre": "Licuadora Generic v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora Generic v1. Calidad garantizada.",
+    "precio": 729314,
+    "imagen": "https://example.com/img/PROD-177-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 73,
+      "Talcahuano": 62,
+      "Chillán": 5,
+      "Los Ángeles": 82
+    }
+  },
+  {
+    "sku": "PROD-178-HOG",
+    "nombre": "Plancha Acme v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Plancha Acme v1. Calidad garantizada.",
+    "precio": 145235,
+    "imagen": "https://example.com/img/PROD-178-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 18,
+      "Talcahuano": 42,
+      "Chillán": 4,
+      "Los Ángeles": 20
+    }
+  },
+  {
+    "sku": "PROD-179-HOG",
+    "nombre": "Licuadora Acme v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora Acme v1. Calidad garantizada.",
+    "precio": 786615,
+    "imagen": "https://example.com/img/PROD-179-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 65,
+      "Talcahuano": 55,
+      "Chillán": 41,
+      "Los Ángeles": 37
+    }
+  },
+  {
+    "sku": "PROD-180-COM",
+    "nombre": "Monitor Generic v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Monitor Generic v5. Calidad garantizada.",
+    "precio": 645188,
+    "imagen": "https://example.com/img/PROD-180-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 31,
+      "Talcahuano": 56,
+      "Chillán": 17,
+      "Los Ángeles": 69
+    }
+  },
+  {
+    "sku": "PROD-181-HOG",
+    "nombre": "Cafetera Generic v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera Generic v5. Calidad garantizada.",
+    "precio": 806482,
+    "imagen": "https://example.com/img/PROD-181-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 83,
+      "Talcahuano": 28,
+      "Chillán": 59,
+      "Los Ángeles": 61
+    }
+  },
+  {
+    "sku": "PROD-182-ACC",
+    "nombre": "Funda Acme v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Funda Acme v5. Calidad garantizada.",
+    "precio": 210737,
+    "imagen": "https://example.com/img/PROD-182-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 79,
+      "Talcahuano": 13,
+      "Chillán": 8,
+      "Los Ángeles": 85
+    }
+  },
+  {
+    "sku": "PROD-183-COM",
+    "nombre": "Mouse TechCorp v5",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Mouse TechCorp v5. Calidad garantizada.",
+    "precio": 452273,
+    "imagen": "https://example.com/img/PROD-183-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 37,
+      "Talcahuano": 9,
+      "Chillán": 21,
+      "Los Ángeles": 62
+    }
+  },
+  {
+    "sku": "PROD-184-HOG",
+    "nombre": "Licuadora TechCorp v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora TechCorp v1. Calidad garantizada.",
+    "precio": 471489,
+    "imagen": "https://example.com/img/PROD-184-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 81,
+      "Talcahuano": 36,
+      "Chillán": 43,
+      "Los Ángeles": 41
+    }
+  },
+  {
+    "sku": "PROD-185-ACC",
+    "nombre": "Mochila TechCorp v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Mochila TechCorp v3. Calidad garantizada.",
+    "precio": 445005,
+    "imagen": "https://example.com/img/PROD-185-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 12,
+      "Talcahuano": 11,
+      "Chillán": 83,
+      "Los Ángeles": 95
+    }
+  },
+  {
+    "sku": "PROD-186-HOG",
+    "nombre": "Licuadora TechCorp v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora TechCorp v1. Calidad garantizada.",
+    "precio": 567344,
+    "imagen": "https://example.com/img/PROD-186-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 78,
+      "Talcahuano": 68,
+      "Chillán": 61,
+      "Los Ángeles": 37
+    }
+  },
+  {
+    "sku": "PROD-187-HOG",
+    "nombre": "Cafetera TechCorp v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Cafetera TechCorp v1. Calidad garantizada.",
+    "precio": 814215,
+    "imagen": "https://example.com/img/PROD-187-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 39,
+      "Talcahuano": 72,
+      "Chillán": 95,
+      "Los Ángeles": 94
+    }
+  },
+  {
+    "sku": "PROD-188-ACC",
+    "nombre": "Cargador TechCorp v5",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador TechCorp v5. Calidad garantizada.",
+    "precio": 56461,
+    "imagen": "https://example.com/img/PROD-188-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 45,
+      "Talcahuano": 53,
+      "Chillán": 59,
+      "Los Ángeles": 84
+    }
+  },
+  {
+    "sku": "PROD-189-ELE",
+    "nombre": "Cámara VisionLab v1",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Cámara VisionLab v1. Calidad garantizada.",
+    "precio": 65618,
+    "imagen": "https://example.com/img/PROD-189-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 61,
+      "Talcahuano": 60,
+      "Chillán": 4,
+      "Los Ángeles": 93
+    }
+  },
+  {
+    "sku": "PROD-190-ACC",
+    "nombre": "Cargador Acme v3",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Cargador Acme v3. Calidad garantizada.",
+    "precio": 287867,
+    "imagen": "https://example.com/img/PROD-190-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 16,
+      "Talcahuano": 7,
+      "Chillán": 57,
+      "Los Ángeles": 12
+    }
+  },
+  {
+    "sku": "PROD-191-HOG",
+    "nombre": "Licuadora SoundSys v2",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora SoundSys v2. Calidad garantizada.",
+    "precio": 455782,
+    "imagen": "https://example.com/img/PROD-191-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 33,
+      "Talcahuano": 13,
+      "Chillán": 87,
+      "Los Ángeles": 33
+    }
+  },
+  {
+    "sku": "PROD-192-ELE",
+    "nombre": "Drone Acme v2",
+    "categoria": "Electrónica",
+    "descripcion": "Descripción oficial para Drone Acme v2. Calidad garantizada.",
+    "precio": 714672,
+    "imagen": "https://example.com/img/PROD-192-ELE.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 48,
+      "Talcahuano": 61,
+      "Chillán": 32,
+      "Los Ángeles": 18
+    }
+  },
+  {
+    "sku": "PROD-193-HOG",
+    "nombre": "Batidora Acme v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Batidora Acme v5. Calidad garantizada.",
+    "precio": 413770,
+    "imagen": "https://example.com/img/PROD-193-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 16,
+      "Talcahuano": 26,
+      "Chillán": 41,
+      "Los Ángeles": 82
+    }
+  },
+  {
+    "sku": "PROD-194-ACC",
+    "nombre": "Hub USB TechCorp v1",
+    "categoria": "Accesorios",
+    "descripcion": "Descripción oficial para Hub USB TechCorp v1. Calidad garantizada.",
+    "precio": 32388,
+    "imagen": "https://example.com/img/PROD-194-ACC.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 24,
+      "Talcahuano": 7,
+      "Chillán": 47,
+      "Los Ángeles": 85
+    }
+  },
+  {
+    "sku": "PROD-195-COM",
+    "nombre": "Notebook Acme v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Notebook Acme v4. Calidad garantizada.",
+    "precio": 637773,
+    "imagen": "https://example.com/img/PROD-195-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 66,
+      "Talcahuano": 70,
+      "Chillán": 41,
+      "Los Ángeles": 19
+    }
+  },
+  {
+    "sku": "PROD-196-COM",
+    "nombre": "Teclado SoundSys v4",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Teclado SoundSys v4. Calidad garantizada.",
+    "precio": 460909,
+    "imagen": "https://example.com/img/PROD-196-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 38,
+      "Talcahuano": 42,
+      "Chillán": 3,
+      "Los Ángeles": 36
+    }
+  },
+  {
+    "sku": "PROD-197-HOG",
+    "nombre": "Licuadora TechCorp v1",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Licuadora TechCorp v1. Calidad garantizada.",
+    "precio": 543823,
+    "imagen": "https://example.com/img/PROD-197-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 43,
+      "Talcahuano": 14,
+      "Chillán": 25,
+      "Los Ángeles": 22
+    }
+  },
+  {
+    "sku": "PROD-198-COM",
+    "nombre": "Notebook Acme v3",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Notebook Acme v3. Calidad garantizada.",
+    "precio": 62900,
+    "imagen": "https://example.com/img/PROD-198-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 42,
+      "Talcahuano": 54,
+      "Chillán": 94,
+      "Los Ángeles": 35
+    }
+  },
+  {
+    "sku": "PROD-199-COM",
+    "nombre": "Teclado VisionLab v2",
+    "categoria": "Computación",
+    "descripcion": "Descripción oficial para Teclado VisionLab v2. Calidad garantizada.",
+    "precio": 417801,
+    "imagen": "https://example.com/img/PROD-199-COM.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 34,
+      "Talcahuano": 92,
+      "Chillán": 91,
+      "Los Ángeles": 70
+    }
+  },
+  {
+    "sku": "PROD-200-HOG",
+    "nombre": "Aspiradora Acme v5",
+    "categoria": "Hogar",
+    "descripcion": "Descripción oficial para Aspiradora Acme v5. Calidad garantizada.",
+    "precio": 300960,
+    "imagen": "https://example.com/img/PROD-200-HOG.jpg",
+    "stock_por_sucursal": {
+      "Concepción": 69,
+      "Talcahuano": 45,
+      "Chillán": 82,
+      "Los Ángeles": 67
+    }
+  }
+]
