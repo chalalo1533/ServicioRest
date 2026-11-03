@@ -6,11 +6,15 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.example.serviciorest.data.model.Post
 import com.example.serviciorest.viewmodel.PostViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun PostScreen(viewModel: PostViewModel) {
+fun PostScreen(
+    viewModel: PostViewModel,
+    onPostClick: (Post) -> Unit = {}
+) {
     // Observamos el flujo de datos del ViewModel
     val posts = viewModel.postList.collectAsState().value
     // Scaffold con TopAppBar
@@ -34,6 +38,8 @@ fun PostScreen(viewModel: PostViewModel) {
             ) {
                 items(items = posts) { post ->
                     Card(
+                        // Al tocar la tarjeta se abre el detalle
+                        onClick = { onPostClick(post) },
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(vertical = 8.dp),

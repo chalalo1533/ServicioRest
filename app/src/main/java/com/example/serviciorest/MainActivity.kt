@@ -2,6 +2,7 @@ package com.example.serviciorest
 import PostScreen
 import androidx.core.view.WindowCompat //
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -25,7 +26,15 @@ class MainActivity : ComponentActivity() {
         setContent {
             ServicioRestTheme {
                 val postViewModel: com.example.serviciorest.viewmodel.PostViewModel = viewModel()
-                PostScreen(viewModel = postViewModel)
+                PostScreen(
+                    viewModel = postViewModel,
+                    onPostClick = { post ->
+                        // Abrimos la actividad de detalle enviando solo el id
+                        val intent = Intent(this, PostDetailActivity::class.java)
+                        intent.putExtra(PostDetailActivity.EXTRA_POST_ID, post.id)
+                        startActivity(intent)
+                    }
+                )
             }
         }
     }

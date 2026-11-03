@@ -22,6 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PostDetailActivity"
+            android:exported="false"
+            android:label="Detalle del Post"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.ServicioRest" />
     </application>
 
 </manifest>
