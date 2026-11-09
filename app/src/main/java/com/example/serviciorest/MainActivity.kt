@@ -33,6 +33,10 @@ class MainActivity : ComponentActivity() {
                         val intent = Intent(this, PostDetailActivity::class.java)
                         intent.putExtra(PostDetailActivity.EXTRA_POST_ID, post.id)
                         startActivity(intent)
+                    },
+                    onCrearClick = {
+                        // Abrimos el formulario vacío (modo crear → POST)
+                        startActivity(Intent(this, PostFormActivity::class.java))
                     }
                 )
             }

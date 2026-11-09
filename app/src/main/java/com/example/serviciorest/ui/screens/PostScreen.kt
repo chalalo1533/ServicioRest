@@ -13,7 +13,8 @@ import com.example.serviciorest.viewmodel.PostViewModel
 @Composable
 fun PostScreen(
     viewModel: PostViewModel,
-    onPostClick: (Post) -> Unit = {}
+    onPostClick: (Post) -> Unit = {},
+    onCrearClick: () -> Unit = {}
 ) {
     // Observamos el flujo de datos del ViewModel
     val posts = viewModel.postList.collectAsState().value
@@ -23,6 +24,12 @@ fun PostScreen(
             TopAppBar(
                 title = { Text(text = "Listado de Posts") }
             )
+        },
+        // Botón flotante para crear un post nuevo (POST)
+        floatingActionButton = {
+            ExtendedFloatingActionButton(onClick = onCrearClick) {
+                Text(text = "+ Nuevo post")
+            }
         }
     ) { innerPadding ->
         // Aplicamos el padding de seguridad del sistema

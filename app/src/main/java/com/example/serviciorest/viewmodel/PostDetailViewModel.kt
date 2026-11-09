@@ -16,7 +16,7 @@ class PostDetailViewModel : ViewModel() {
     private val _post = MutableStateFlow<Post?>(value = null)
     val post: StateFlow<Post?> = _post
 
-    // Indica si la llamada REST está en curso
+    // Indica si una llamada REST está en curso
     private val _isLoading = MutableStateFlow(value = false)
     val isLoading: StateFlow<Boolean> = _isLoading
 
@@ -24,10 +24,14 @@ class PostDetailViewModel : ViewModel() {
     private val _error = MutableStateFlow<String?>(value = null)
     val error: StateFlow<String?> = _error
 
+    // Mensaje de confirmación tras el DELETE (null = no eliminado)
+    private val _eliminado = MutableStateFlow<String?>(value = null)
+    val eliminado: StateFlow<String?> = _eliminado
+
     // Segunda llamada REST: obtiene todos los datos de un post por su id
     fun fetchPost(id: Int) {
         // Evita repetir la llamada si ya se cargó (por ejemplo al rotar la pantalla)
-        if (_post.value?.id == id) return
+        if (_post.value?.id == id && _error.value == null) return
 
         viewModelScope.launch {
             _isLoading.value = true
@@ -36,6 +40,24 @@ class PostDetailViewModel : ViewModel() {
                 _post.value = repository.getPostById(id)
             } catch (e: Exception) {
                 _error.value = "Error al obtener el detalle: ${e.localizedMessage}"
+            } finally {
+                _isLoading.value = false
+            }
+        }
+    }
+
+    // DELETE /posts/{id}
+    fun eliminarPost() {
+        val id = _post.value?.id ?: return
+
+        viewModelScope.launch {
+            _isLoading.value = true
+            _error.value = null
+            try {
+                val codigo = repository.deletePost(id)
+                _eliminado.value = "Post #$id eliminado (HTTP $codigo)"
+            } catch (e: Exception) {
+                _error.value = "Error al eliminar: ${e.localizedMessage}"
             } finally {
                 _isLoading.value = false
             }

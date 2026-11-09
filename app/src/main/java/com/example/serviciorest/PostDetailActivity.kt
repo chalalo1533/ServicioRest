@@ -1,5 +1,6 @@
 package com.example.serviciorest
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -36,7 +37,13 @@ class PostDetailActivity : ComponentActivity() {
                 PostDetailScreen(
                     viewModel = detailViewModel,
                     onBack = { finish() },
-                    onRetry = { detailViewModel.fetchPost(postId) }
+                    onRetry = { detailViewModel.fetchPost(postId) },
+                    onEdit = { id ->
+                        // Abrimos el formulario en modo edición (PUT)
+                        val intent = Intent(this, PostFormActivity::class.java)
+                        intent.putExtra(PostFormActivity.EXTRA_POST_ID, id)
+                        startActivity(intent)
+                    }
                 )
             }
         }
