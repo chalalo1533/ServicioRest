@@ -28,6 +28,12 @@
             android:label="Detalle del Post"
             android:parentActivityName=".MainActivity"
             android:theme="@style/Theme.ServicioRest" />
+        <activity
+            android:name=".PostFormActivity"
+            android:exported="false"
+            android:label="Formulario Post"
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@style/Theme.ServicioRest" />
     </application>
 
 </manifest>
